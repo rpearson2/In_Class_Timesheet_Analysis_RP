@@ -1,0 +1,111 @@
+Initial ,Date,course_id,time(m),Summary
+RP,1/8/2024,ECON-111-02,50,Class - went over chapter 1 of economics textbook
+RP,1/8/2024,MATH-118-01,50,Class - went of chapter 5.1 and 5.2 from Calculus 1
+RP,1/8/2024,MATH-205-03,75,Class - went over different types of data and graphs
+RP,1/8/2024,BUSA-103-01,30,Read Chapter 1 of text book for quiz on Tuesday
+RP,1/9/2024,BUSA-103-01,75,Class - went over chapter 1 of the textbook and had a reading quiz over it
+RP,1/9/2024,DS-160-01,75,Class - worked on data analysis in excel
+RP,1/9/2024,MATH-118-01,45,Class - had a math lab that went over 5.1 and 5.2 in maple
+RP,1/9/2024,DS-160-01,15,Finished up the graphs for data analysis of Murder and Assault Rate
+RP,1/9/2024,ECON-111-02,33,Did MindTap assignments for Chapter 2 and 1
+RP,1/10/2024,ECON-111-02,50,Class - Went over chapter 2 of the economics textbook
+RP,1/10/2024,MATH-118-01,50,Class - Went over the fundamental theorem of calculus and went over practice problems
+RP,1/10/2024,MATH-205-03,75,"Class - Went over box blots and mean, median, IQR, standard deviation"
+RP,1/10/2024,BUSA-103-01,45,Read Chapter 2 of the text book for quiz on Thursday
+RP,1/11/2024,BUSA-103-01,60,Class - went over chapter 3 of the textbook and had a reading quiz over it
+RP,1/11/2024,DS-160-01,75,Class - Worked on Exam score anyaliss with Clay
+RP,1/12/2024,ECON-111-02,50,Class - Went over chapter 3 of economics textbook
+RP,1/12/2024,MATH-118-01,50,Class - Went over 5.4 
+RP,1/12/2024,MATH-205-03,50,Class - Went over normal distribution
+RP,1/12/2024,MATH-118-01,51,Did 5.1 practice problems and started 5.2 practice problems
+RP,1/15/2024,MATH-205-03,5,Responded to question moodle that was homework
+RP,1/15/2024,BUSA-103-01,40,Read chapter 4 of the textbook for quiz on Tuesday
+RP,1/16/2024,BUSA-103-01,75,Class - Went over chapter 4 of the textbook and had a reading quiz on it
+RP,1/16/2024,DS-160-01,75,Class - Went over numpy analysis and did some practice
+RP,1/16/2024,MATH-118-01,120,"Class - Had a math quiz over section 5.1, 5.2, and 5.3 and then did a math lab in groups"
+RP,1/16/2024,ECON-111-02,10,Started on Chapter 3 Mind tap
+RP,1/17/2024,ECON-111-02,50,Class - Went over supply and demand and chapter 3
+RP,1/17/2024,MATH-118-01,50,Class - 5.5 substitution with Integrals
+RP,1/17/2024,MATH-205-03,75,Class - Did more with normal distribution 
+RP,1/17/2024,MATH-205-03,180,Doing Homework assignment one for statistics
+RP,1/17/2024,BUSA-103-01,45,Read Chapter 5 of the textbook
+RP,1/18/2024,BUSA-103-01,75,Class- went over chapter 5 of textbook and had reading quiz over it
+RP,1/18/2024,DS-160-01,75,Class - Finished the group work of the heart disease anyalysis using Numpy. 
+RP,1/18/2024,MATH-205-03,55,Finished up the homework assignment 1
+RP,1/18/2024,ECON-111-02,20,Finished up Chapter 3 mindtap
+RP,1/19/2024,ECON-111-02,50,Class - finished chapter 3 with consumer and producer surplus
+RP,1/19/2024,MATH-118-01,50,Class - did more practice problems for 5.5
+RP,1/19/2024,MATH-205-03,50,Class - started chapter 2 with learning about scatter plots
+RP,1/20/2024,MATH-118-01,102,Did practice problems for 5.4
+RP,1/22/2024,ECON-111-02,50,Class - Started going over chapter 4 
+RP,1/22/2024,BUSA-103-01,25,Started reading chapter 2 of the business textbook
+RP,1/22/2024,MATH-205-03,75,Class - Went over scatterplots and correlation
+RP,1/22/2024,BUSA-103-01,40,Finished reading chapter 2 of the business textbook
+RP,1/22/2024,MATH-118-01,35,Worked on practice problems for 5.5
+RP,1/23/2024,BUSA-103-01,75,Class - Had a reading quiz on chapter 2 and then reviewed chapter 2
+RP,1/23/2034,DS-160-01,75,Class - started working with pandas in class
+RP,1/23/2024,MATH-118-01,25,Finished practice problems for 5.5
+RP,1/24/2024,ECON-111-02,50,Class - Continued going over chapter 4
+RP,1/24/2024,MATH-118-01,50,Class - Did section 6.1 area between the curves
+RP,1/24/2024,MATH-205-03,75,Class - Worked on predicting with the regression line
+RP,1/25/2024,BUSA-103-01,75,Class - Disscussed biases
+RP,1/25/2024,DS-160-01,75,Class - Continued working with pandas
+RP,1/25/2024,DS-160-01,30,Worked on group project outside class
+RP,1/26/2024,ECON-111-02,50,Class - Finished Chapter 4
+RP,1/26/2024,MATH-118-01,50,Class - did section 6.2 with volumes
+RP,1/26/2024,MATH-205-03,50,Class - started data analysis with two way tables
+RP,1/27/2024,MATH-118-01,150,Did practice problems for 6.1
+RP,1/27/2024,BUSA-103-01,21,Started studying for test on Tuesday. 
+RP,1/28/2024,MATH-205-03,105,Worked on assignment 2
+RP,1/28/2024,BUSA-103-01,150,Studying for test on Tuesday
+RP,1/29/2024,ECON-111-02,50,Class - went over chapter 5
+RP,1/29/2024,MATH-118-01,50,Class- went over volumes over y-axis
+RP,1/29/2024,MATH-205-03,75,Class- Went over section 2.6
+RP,1/29/2024,MATH-205-03,150,Worked on assignment 2 with the group
+RP,1/30/2024,BUSA-103-01,60,Class - Had exam 1
+RP,1/30/2024,DS-160-01,75,Class - finished pandas class notebook and start matplotlib
+RP,1/30/2024,ECON-111-02,25,Did chapter 4 mindtap
+RP,1/31/2024,ECON-111-02,50,Class - started chapter 20
+RP,1/31/2024,MATH-118-01,50,Class - started learning about average number of a function
+RP,1/31/2024,MATH-205-03,75,Class - Started chapter 3
+RP,1/31/2024,MATH-205-03,30,Finished up assignment 2
+RP,1/31/2024,ECON-111-02,20,Did chapter 5 mindtap
+RP,2/1/2024,ECON-111-02,40,read chapter 20
+RP,2/2/2024,ECON-111-02,50,Class - Finished chapter 20
+RP,2/2/2024,MATH-118-01,45,Worked on practice problems for 6.2
+RP,2/2/2024,MATH-118-01,50,Class - Worked on 6.4
+RP,2/2/2024,MATH-205-03,50,Class - Continued chapter 3
+RP,2/2/2024,BUSA-103-01,12,Finished up excel practice assignment
+RP,2/4/2024,ECON-111-02,55,Completed chapter 20 mindtap
+RP,2/5/2024,ECON-111-02,50,Class - Reviewed for exam on Wednesday
+RP,2/5/2024,MATH-118-01,20,Worked on practice problems
+RP,2/5/2024,MATH-118-01,50,Class - Worked on 11.1
+RP,2/5/2024,MATH-205-03,70,Class - continued working on chapter 3
+RP,2/5/2024,ECON-111-02,25,Started practice exam for exam on Wednesday
+RP,2/5/2024,MATH-118-01,130,Worked on practice problems for tommorow's quiz
+RP,2/6/2024,BUSA-103-01,75,Class - Worked more on excel
+RP,2/6/2024,DS-160-01,75,Class - did work with Matplotlib
+RP,2/6/2024,ECON-111-02,50,Studied for exam 
+RP,2/7/2024,ECON-111-02,50,Class - Review day for exam on Friday
+RP,2/7/2024,MATH-118-01,50,Class - Worked on sequences and series
+RP,2/7/2024,MATH-205-03,70,Class - Finished Chapter 3 and started chapter 4
+RP,2/7/2024,MATH-205-03,65,Finished homework assignment 3
+RP,2/8/2024,BUSA-103-01,75,Class - continued working with excel
+RP,2/8/2024,DS-160-01,70,Class - Had a quest speaker talk about Data Science
+RP,2/8/2024,DS-160-01,15,Studied for exam 
+RP,2/8/2024,MATH-118-01,40,Worked on practice problems for 11.1
+RP,2/8/2024,ECON-111-02,50,Class - Had exam 1
+RP,2/8/2024,MATH-118-01,50,Class - learned about series
+RP,2/10/2024,BUSA-103-01,33,Completed excel practice 3
+RP,2/11/2024,MATH-118-01,210,"Completed practice problems for 11.1, 11.2 and ch 5 review questions"
+RP,2/12/2024,MATH-205-03,30,Studied for group part of exam
+RP,2/12/2024,MATH-118-01,50,Class - Review for exam tommorow
+RP,2/12/2024,MATH-205-03,70,Class - took group part of exam
+RP,2/13/2024,BUSA-103-01,75,Class - continued working with excel
+RP,2/13/2024,DS-160-01,75,Class - started learning about seaborn
+RP,2/13/2024,MATH-118-01,120,Class - Had first exam
+RP,2/14/2024,ECON-111-02,50,Class - Got exam back and had time to review it
+RP,2/14/2024,BUSA-103-01,20,Started work on partner presenation
+RP,2/14/2024,MATH-118-01,50,Class - learned about improper integrals
+RP,2/14/2024,MATH-205-03,40,Class - took individual part of the exam
+RP,2/14/2024,MATH-118-01,35,Worked on practice problems for 7.8
